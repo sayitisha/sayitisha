@@ -1,38 +1,80 @@
-# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hey There!!&nbsp;
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nakul-19" alt="nakul-19" /> </p>
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com?color=ff2e63&size=30&duration=2500&pause=800&background=FFF0F5&lines=Hey+there,+I'm+Itisha+👋" />
+</p>
+ 
+  <img src="https://readme-typing-svg.herokuapp.com?color=ff69b4&center=true&vCenter=true&lines=Software+Developer;Problem+Solver;DSA+Enthusiast;AI%2FML+Explorer"/>
+</p>
 
-#### I'm Itisha, 4th Year Student at 👨‍💻 Maharaja Agrasen Institute Of Technology(MAIT), DELHI. Pursuing B.Tech . <br>  I am an WEB Developer as well as a Competitive Programmer, obsessed with the idea of continuously improving myself.
- <br>
-<img align="right" alt="GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnZ5N3Ria2Jka3h2c2VpYm82NHRuYmM4bXlsdnlqdWw3OTE0czNzaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6FWpozKBgrQD4MZwDC/giphy.gif" width="400px" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sayitisha&style=flat-square&color=ff69b4"/>
+</p>
 
-## 🧐 About
-- 🏢  I'm currently an undergrad student in EEE(Electrical and Electronics Engineering)+ MINROR in AIML (2022-2026)
-- 🏄‍  I like to explore a new angle in existing ideas. 
-- ✨  I love to build WEB applications based on unique ideas.
-- 🌱  I love to learn new things and help others. 
-- 🎨  Fun fact: Night time and good music boost my skills🌚.
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTM3bTRucHk5aTFyeWJnN3FrdjI5Ymhpd2RpMG43ZnNlNHM1MjR0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/137EaR4vAOCn1S/giphy.gif" width="70%"/>
+</p>
 
+---
 
+## 💫 About Me
 
+- 🎓 B.Tech @ **MAIT, Delhi** | Minor in **AI & ML**  
+- 💻 Software Developer with strong foundation in **DSA, OS, and Computer Networks**  
+- 🧠 Experienced in building **scalable applications & solving real-world problems**  
+- 🌱 Exploring **systems, full-stack development, and AI/ML applications**  
+- ⚡ Focused on **clean code, performance & continuous learning**
 
-#### 📫  How to reach me: mail me at [itishakofficial@gmail.com](mailto:itishakofficial@gmail.com)
+---
 
-<br>
+## 🛠 Tech Stack
 
-##  🛠 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,nodejs,express,django,flask,mongodb,mysql,postgres,docker,git,linux&theme=dark" />
+</p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/android-icon.svg" alt="Android" width="56" height="56"/>  <img src="kotlin-seeklogo.png" alt="Kotlin" width="52" height="52"/>  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c.svg" alt="c" width="56" height="56"/> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c-plusplus.svg" alt="cplusplus" width="56" height="56"/> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/firebase.svg" alt="Firebase" width="56" height="56"/> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/figma.svg" alt="Android" width="56" height="56"/> </p>
+---
 
-<br>
+## ⚡ What I Do
 
-## Let's Connect🙌:
-<div align="center">
-<a href="https://github.com/sayitisha"  target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.linkedin.com/in/sayitisha/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://leetcode.com/u/sayitisha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sayitisha/" height="30" width="40" /></a>
+- 💻 Build efficient and scalable applications  
+- 🧠 Solve 350+ DSA problems (Trees, Graphs, DP)  
+- 🚀 Work across backend, systems & full-stack  
+- 🤖 Explore AI/ML and real-world integrations  
 
-</div> 
+---
+
+## 🏆 Achievements
+
+- 🥇 Consistently among **Top 3 in Department**  
+- 🎯 Solved **350+ problems on LeetCode**  
+- 💼 Cisco Campus Ambassador  
+
+---
+
+## 🚀 Projects
+
+- 🔹 **Multi-Threaded HTTP Proxy Server (LRU Cache)**  
+- 🔹 **Payment Gateway Proxy System (PayGuard)**  
+- 🔹 **Medical LLM Chatbot (RAG-based)**  
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/sayitisha">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sayitisha/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:itishakofficial@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+  </a>
+  <a href="https://leetcode.com/u/sayitisha/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
+  </a>
+</p>
+
+<p align="center">
+  ✨ <i>Code. Learn. Build. Repeat.</i> ✨
+</p>
