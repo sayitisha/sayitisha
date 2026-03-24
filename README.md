@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTM3bTRucHk5aTFyeWJnN3FrdjI5Ymhpd2RpMG43ZnNlNHM1MjR0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/137EaR4vAOCn1S/giphy.gif" width="80%"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTM3bTRucHk5aTFyeWJnN3FrdjI5Ymhpd2RpMG43ZnNlNHM1MjR0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/137EaR4vAOCn1S/giphy.gif" width="90%" height="350" />
 </p>
 
 ---
